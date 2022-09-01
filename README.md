@@ -1,7 +1,7 @@
 # QuickEDA
 QuickEDA helps in analyzing the data quickly using pandas-profiling.
 
-Just select an excel file on the popup window. The output html file is generated in the Download folder.
+Just select an excel file on the popup window. The output html file is generated in the repo folder on your desktop.
 
 
 ## Steps to use this repository
